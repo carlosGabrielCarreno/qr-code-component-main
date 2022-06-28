@@ -1,4 +1,4 @@
-# page: https://gabrielcarrenio.github.io/qr-code-component-main/
+### page: <a href="https://gabrielcarrenio.github.io/qr-code-component-main/"></a>
 
 # Frontend Mentor - QR code component
 
